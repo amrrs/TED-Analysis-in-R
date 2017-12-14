@@ -1,1 +1,0 @@
-# TED-Analysis-in-R
