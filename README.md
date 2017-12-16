@@ -1,5 +1,7 @@
 ## Top Misc Things - TED Analysis in R
 
+Kaggle Kernel: https://www.kaggle.com/nulldata/top-misc-things-ted-analysis-in-r
+
 
 ```R
 options(scipen=999)
