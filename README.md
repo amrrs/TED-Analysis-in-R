@@ -1,7 +1,8 @@
 ## Top Misc Things - TED Analysis in R
 
-DS+ Article: 5 interesting subtle insights from TED videos data analysis in R
-Kaggle Kernel: https://www.kaggle.com/nulldata/top-misc-things-ted-analysis-in-r
+* DS+ Article: [5 interesting subtle insights from TED videos data analysis in R](https://datascienceplus.com/5-interesting-subtle-insights-from-ted-videos-data-analysis-in-r/)
+
+* Kaggle Kernel: https://www.kaggle.com/nulldata/top-misc-things-ted-analysis-in-r
 
 
 ```R
